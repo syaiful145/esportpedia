@@ -1,2 +1,0 @@
-# esportpedia
-Esport Pedia
